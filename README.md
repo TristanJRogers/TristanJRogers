@@ -9,6 +9,8 @@ Check out my portfolio to see some of my other skills that I have picked during 
 
 ## Computer Forensics
 
+-- Forensic Investigation: https://github.com/TristanJRogers/Computer-Forensic-Investigation 
+
 ## Database Design
 
 ## Database Security
