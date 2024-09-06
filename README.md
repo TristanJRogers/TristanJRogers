@@ -13,6 +13,8 @@ Check out my portfolio to see some of my other skills that I have picked during 
 
 ## Database Design
 
+-- ERD Model: https://github.com/TristanJRogers/Database-Design--Tiny-College 
+
 ## Database Security
 
 ## Information Security
