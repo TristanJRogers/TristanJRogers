@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**TristanJRogers/TristanJRogers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a senior at the University of Louisville's College of Business. There I am studying Computer Information Systems with a focus on cyber Security.
+Currently I am a Infrastructure Technician at the 123 Airlift Wing where I maintain our communication Infrastructure (Switching, Routing, Voice, Encryption). 
+Check out my portfolio to see some of my other skills I have picked during my time in college
 
-Here are some ideas to get you started:
+## SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Computer Forensics
+
+## Database Design
+
+## Database Security
+
+## Information Security
+
+## Network Security
