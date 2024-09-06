@@ -24,3 +24,5 @@ Check out my portfolio to see some of my other skills that I have picked during 
 -- Injections Project: https://github.com/TristanJRogers/Network-Security--Injections-Project
 
 -- Linux Firewall: https://github.com/TristanJRogers/Network-Security--Linux-Firewall/tree/main 
+
+-- Snort: https://github.com/TristanJRogers/Network-Security--Snort/tree/main
