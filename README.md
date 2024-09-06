@@ -17,8 +17,6 @@ Check out my portfolio to see some of my other skills that I have picked during 
 
 ## Database Security
 
-## Information Security
-
 ## Network Security
 
 -- Injections Project: https://github.com/TristanJRogers/Network-Security--Injections-Project
