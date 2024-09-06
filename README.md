@@ -5,6 +5,7 @@ Currently I am a Infrastructure Technician at the 123 Airlift Wing where I maint
 Check out my portfolio to see some of my other skills I have picked during my time in college
 
 ## SQL
+-- Complex Query: https://github.com/TristanJRogers/SQL---Complex-Querry 
 
 ## Computer Forensics
 
