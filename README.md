@@ -29,4 +29,4 @@ Check out my portfolio to see some of my other skills that I have picked up duri
 
 ## Raspberry PI Projects
 
--- Custom Boot Screen Video: https://github.com/TristanJRogers/Raspberry-PI-Projects/blob/main/Custom%20Boot%20Screen 
+-- Custom Boot Screen Video: https://github.com/TristanJRogers/Raspberry-PI-Projects/blob/main/Custom%20Boot%20Screen ](https://github.com/TristanJRogers/RPI---Creating-A-Custom-Boot-Screen/tree/main
