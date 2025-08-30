@@ -26,3 +26,7 @@ Check out my portfolio to see some of my other skills that I have picked up duri
 -- Linux Firewall: https://github.com/TristanJRogers/Network-Security--Linux-Firewall/tree/main 
 
 -- Snort: https://github.com/TristanJRogers/Network-Security--Snort/tree/main
+
+## Raspberry PI Projects
+
+-- Custom Boot Screen Video: 
